@@ -8,6 +8,10 @@ Here are currently open tickets requesting the feature:
 
 If you find you like this package, please take the time to upvote these tickets.
 
+# How fast is it?
+
+On my computer, using the package adds 6ms / 1,000,000 calls.
+
 # Install
 
 [NuGet page](https://www.nuget.org/packages/WinstonPuckett.PipeExtensions/)
